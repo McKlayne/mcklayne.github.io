@@ -37,7 +37,7 @@ social_media:
 #   keybase: your_username
     linkedin: mcklayne-marshall
 #   mastodon: your_username
-#   medium: your_username
+    medium: mcklayne.marshall
 #   stackoverflow: your_user_id
 #   telegram: your_username
 #   twitter: your_username
@@ -59,4 +59,4 @@ topics:
     web_url: https://github.com/topics/julia
     image_url: https://raw.githubusercontent.com/github/explore/49e13f12be05e7e3f3616bb7a5030d70b259f320/topics/julia/julia.png
     
-thoughts:
+thoughts
