@@ -60,6 +60,3 @@ topics:
     image_url: https://raw.githubusercontent.com/github/explore/49e13f12be05e7e3f3616bb7a5030d70b259f320/topics/julia/julia.png
     
 thoughts:
-    - name: Build an Algorithmic Trading Bot in 7 Steps
-    - web_url: https://medium.com/@mcklayne.marshall/algorithmic-trading-automated-in-python-with-alpaca-google-cloud-and-daily-email-notifications-422b7c6b7c53
-    - image_url: https://miro.medium.com/max/2394/1*sc6N_5tSonH9lhsmH9rOrQ.png
