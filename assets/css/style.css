@@ -132,7 +132,7 @@
 /* body-color */
 
 body {
-  color: #333;
+  color: rgb(92, 95, 95);
   font-size: 18px;
 }
 
@@ -328,7 +328,7 @@ h3 {
 } */
 
 #intro.section {
-  background: #3e3f3e repeat;
+  background: #797a79 repeat;
   position: relative;
 }
 
