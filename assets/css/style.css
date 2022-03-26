@@ -148,7 +148,7 @@ body {
 } */
 
 a {
-  color: #194357;
+  color: blue;
 }
 
 /* main blockqoute */
@@ -183,7 +183,7 @@ blockquote * {
 /* main nav */
 
 nav {
-  background: white;
+  background: gray;
   box-shadow: none;
   height: 0;
 }
@@ -567,7 +567,7 @@ small {
 /* .teal */
 
 .teal {
-  background-color: #008073 !important;
+  background-color: #2693a7 !important;
 }
 
 /* .teal {
