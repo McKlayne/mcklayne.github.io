@@ -17,7 +17,7 @@
 
 .profile-pic img {
   width: 100%;
-  height: auto;
+  height: 100%;
 }
 
 .tracker {
@@ -148,7 +148,7 @@ body {
 } */
 
 a {
-  color: blue;
+  color: rgb(8, 8, 10);
 }
 
 /* main blockqoute */
