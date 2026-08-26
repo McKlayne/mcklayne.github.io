@@ -1,16 +1,18 @@
-# Personal Portfolio ⚡️ 
-> A clean, beautiful, responsive portfolio template.
+# McKlayne Marshall — Personal Portfolio
 
-# All the Credit Goes to @varadbhogayata
+Static personal site for [mcklayne.github.io](https://mcklayne.github.io/), built with HTML and CSS (no build step). Deployed via GitHub Pages.
 
-## Sections 📚
-✔️ About me\
-✔️ Experience\
-✔️ Projects \
-✔️ Skills \
-✔️ Education\
-✔️ Contact Info\
-✔️ Resume
+## Sections
 
-## License 📄
-This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details.
+- Intro
+- About
+- Projects
+- Contact
+
+## Credits
+
+Original portfolio template by [@varadbhogayata](https://github.com/varadbhogayata).
+
+## License
+
+MIT — see [LICENSE](./LICENSE).
